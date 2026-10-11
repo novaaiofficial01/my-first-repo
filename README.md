@@ -6,8 +6,8 @@
 
 - [x] 安装 Git
 - [x] 配置 Git 身份
-- [ ] 学会 commit（存档）
-- [ ] 学会 push（上传到 GitHub）
+- [x] 学会 commit（存档）
+- [x] 学会 push（上传到 GitHub）
 - [ ] 学会 pull / clone
 - [ ] 学会 branch / PR（分支与协作）
 
